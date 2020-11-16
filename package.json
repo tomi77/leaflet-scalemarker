@@ -1,6 +1,6 @@
 {
   "name": "leaflet-scalemarker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enables scaling of the marker icons in Leaflet",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tomi77/leaflet-scalemarker/issues"
   },
-  "homepage": "https://github.com/tomi77/leaflet-scalemarker#readme"
+  "homepage": "https://github.com/tomi77/leaflet-scalemarker",
+  "peerDependencies": {
+    "leaflet": ">0.7.0"
+  }
 }
