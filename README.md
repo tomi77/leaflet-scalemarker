@@ -23,7 +23,7 @@ It simply extends the `L.Marker` class with two new options:
 
 Option | Type | Default | Description  
 -------|------|---------|------------
-**`scalingVector`** | `Number` or `String` | 1 | Scaling vector as a ['scale'](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale) CSS rule.
+**`scalingVector`** | `Number` or `String` | 1 | Scaling vector as a [`scale`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale) CSS rule.
 **`scalingOrigin`** | `String` | `'center bottom'` | The scaling center, as a [`transform-origin`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin) CSS rule.
 
 and two new methods:
