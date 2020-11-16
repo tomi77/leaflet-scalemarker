@@ -37,4 +37,4 @@ The default `scalingOrigin` value will rotate around the bottom center point, co
 
 Demo
 ---
-http://tomi77.github.io/leaflet.scalemarker/example.html
+https://tomi77.github.io/leaflet-scalemarker/example.html
