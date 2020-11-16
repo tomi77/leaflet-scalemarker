@@ -1,0 +1,24 @@
+{
+  "name": "leaflet-scalemarker",
+  "version": "1.0.0",
+  "description": "Enables scaling of the marker icons in Leaflet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomi77/leaflet-scalemarker.git"
+  },
+  "keywords": [
+    "leaflet",
+    "marker",
+    "scaling"
+  ],
+  "author": "Tomasz Jakub Rup <tomasz.rup@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomi77/leaflet-scalemarker/issues"
+  },
+  "homepage": "https://github.com/tomi77/leaflet-scalemarker#readme"
+}
